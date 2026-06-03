@@ -1,5 +1,5 @@
-Important Coding Questions✅
+#Important Coding Questions✅
 
-Code Editor Suggestion: HackerRack💻
+-Code Editor Suggestion: HackerRack💻
 
-Language of Code: Python 3.0🐍
+-Language of Code: Python 3.0🐍
